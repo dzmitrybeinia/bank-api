@@ -1,0 +1,3 @@
+account:
+  default: 500
+  transfer-commission: 0.01
